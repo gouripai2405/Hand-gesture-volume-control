@@ -1,3 +1,4 @@
+#contributor: Alok - setup and initialization module
 import cv2
 import mediapipe as mp
 import math
