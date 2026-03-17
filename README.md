@@ -1,6 +1,6 @@
 # Hand Gesture Volume Control
 
-This project is developed as part of the Infosys Internship milestone tasks.
+This project is developed as part of the Infosys Springboard Internship milestone tasks.
 
 The objective of this project is to control the system volume using hand gestures with the help of computer vision.
 
